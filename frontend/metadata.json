@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Authenticity Platform",
+  "description": "Detect AI generated text, images, audio, and URLs with confidence scores and explanations.",
+  "requestFramePermissions": []
+}
